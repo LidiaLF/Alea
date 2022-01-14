@@ -66,5 +66,5 @@ Toda a información que contén a Base de Datos pertence aos usuarios, protexido
 
 A aplicación pretende ser o máis intuitiva posible, polo que non se fai estritamente necesaria unha formación específica para o seu uso.    
 No caso de que fora necesario, proporcionase un manual de uso nos seguintes enlaces:
-* [Manual de uso **Alea App**](documentacion/MANUAL_USO_ALEA.pdf).
-* [Manual de uso **Alea Scanner App**](documentacion/MANUAL_USO_ALEASCANNER.pdf)
+* [Manual de uso **Alea App**](/documentacion/MANUAL_USO_ALEA.pdf).
+* [Manual de uso **Alea Scanner App**](/documentacion/MANUAL_USO_ALEASCANNER.pdf)
