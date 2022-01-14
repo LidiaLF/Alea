@@ -36,7 +36,7 @@ Neste caso seleccionamos un IDE (Android Studio), linguaxe de programación Andr
 Definimos que os dispositivos nos que correrá a aplicación teñen que ter unha versión Nougat ou superior, abarcando así a máis da metade dos dispositivos actualmente utilizados en Android.
 
 
-![Api](doc/img/apiAndroid.png)
+![Api](/doc/img/apiAndroid.png)
 
 
 Recursos hardware/software: Dispositivo con conexión a internet para a busqueda de ideas e creacións de diseños (neste caso, os deseños foron realizados co programa [*Proto.io*](https://proto.io/)) e software de ofimática para describir as funcionalidades da aplicación.
