@@ -1,5 +1,11 @@
 # ALEA 
  ![Logo Alea](doc/img/ALEA-ASESORES-LOGO.png)
+ 
+ ## Software Empregado
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+</br>
 
 ## Descripción
 Alea app é unha aplicación que pretende dar solución a algúns aspectos descritos pola [lei de fichaxes](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3481) establecida no 2019 para o entorno empresarial.
