@@ -52,7 +52,7 @@ En resumo, a aplicación levará un continuo mantemento e administración por pa
 ## Xestión de incidencias
 
 Poden ser incidencias de dous tipos: de sistema (accesos non autorizados á BD, etc) ou de fallos no software.
-Para calquer tipo de incidencia podes contactar co proveedor da aplicación a través de [**este enlace**](https://gitlab.iessanclemente.net/damo/a19lidialf/-/issues/new), especificando o problema co que te atopaches. Este será resolto o antes posible.
+Para calquer tipo de incidencia podes contactar co proveedor da aplicación a través de [**este enlace**](https://github.com/LidiaLF/Alea/issues), especificando o problema co que te atopaches. Este será resolto o antes posible.
 
 Tamén podes contactar directamente a través do correo electrónico _lidialoureirofacal@gmail.com_ co asunto **Incidencia Alea**, especificando un teléfono ou e-mail de contacto, e poñeremonos en contacto o antes posible.
 
