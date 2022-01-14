@@ -15,4 +15,4 @@ En caso de querer extender a comercialización  a outras empresas, poderase adap
 
 Pretendese usar **Android Studio** e **Firebase**.
 
-[Información Ampliada](documentacion/Idea_Anteproxecto.pdf)
+[Información Ampliada](/documentacion/Idea_Anteproxecto.pdf)
