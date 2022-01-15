@@ -7,7 +7,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 </br>
 
-## Descripción
+## Descrición
 Alea app é unha aplicación que pretende dar solución a algúns aspectos descritos pola [lei de fichaxes](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3481) establecida no 2019 para o entorno empresarial.
 
 Ao mesmo tempo dispón de outras funcionalidades, tamén útiles, tanto para os empregados como para os administradores, como son a entrega de nóminas a través da aplicación, envío de e-mails, chamadas entre empregados, notas personais, etc. 
